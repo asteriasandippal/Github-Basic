@@ -1,7 +1,7 @@
 ## Practice Tutorials
 
-This repo is for all my course file completed through teamtreehouse.com
+This repo is for all my course files completed through teamtreehouse.com
 
-Please Chekout my Profile https://github.com/asteriasandippal
+Also checkout my Profile [here](https://github.com/asteriasandippal)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum vitae quisquam minus unde itaque quidem deserunt, officia nulla incidunt, reprehenderit distinctio, voluptas accusantium nobis eaque neque iusto dolorem totam? In.
+![pictures-map--huge](https://user-images.githubusercontent.com/31852952/33360234-ea9a6810-d4f8-11e7-90b9-cc465cbf80dd.jpg)
